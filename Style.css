@@ -1,0 +1,11 @@
+.imgRedonda {
+    width:150px;
+    height:150px;
+    border-radius:150px;
+}
+.star {
+    font-size: 20px;
+  }
+.fondo {
+    background-color: aliceblue;
+}
